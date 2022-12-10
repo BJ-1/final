@@ -1,3 +1,7 @@
+#ifndef CAR_H
+#define CAR_H
+
+
 #include <iostream>
 #include <string>
 #include "auto.h"
@@ -15,3 +19,6 @@ public:
     string alert(bool danger);
     bool decide;
 };
+
+
+#endif

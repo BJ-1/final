@@ -1,3 +1,6 @@
+#ifndef AUTO_H
+#define AUTO_H
+
 
 #include <iostream>
 #include <iomanip>
@@ -25,3 +28,4 @@ public:
 };
 
 
+#endif

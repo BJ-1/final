@@ -29,5 +29,12 @@ Car::Car(int a, bool h, int c, int mphs, bool sP)
 
 string Car::alert(bool danger)
 {
+    this->danger;
+    
+    if ((age > 50) || (health == false) || (numberOfChildren > 2) || (mph > 60) || (selfPreservation == true))
+    {
+        cout << "You are in danger\n\n" << endl;
+    }
+    
 
 }

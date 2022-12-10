@@ -1,0 +1,18 @@
+This program was created by... 
+    Jeanette Simo        Student ID: 920059238
+    Christine Morataya   Student ID: 918843621
+    Tsenbujin Tsendjav   Student ID: 921469351
+
+# Autonomous Car Dilemma
+
+This program is a simple implementation of classes using Object-Oriented Programming in c++.
+The program deals with an issue where a self driving car needs to make a decision in a seemingly 
+impossible situation. There is a truck in front a self-driving vehicle, and the vehicle is to 
+recognize that the load on the truck is about to fall on it. The self-driving vehicle is in between
+two motorcycles on the road in a way that there is no option but hit either one of the motorcycles.
+
+The self-driving vehicle is then to make the most ethical decision that minimizes the damage as well.
+
+# How to run the program...
+    Enter "make" command in the terminal
+    Then simply enter "./main.o" to run the program
